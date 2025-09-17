@@ -41,18 +41,4 @@ This project demonstrates a machine learning workflow for detecting fraudulent c
 - matplotlib
 - seaborn
 
-## Usage
 
-1. Clone the repository and place `creditcard.csv` in the project folder.
-2. Open `Credit_card_fraud_detection.ipynb` in Jupyter Notebook or VS Code.
-3. Run the notebook cells sequentially to reproduce the analysis.
-
-## Results
-
-- Random Forest provides robust performance for fraud detection.
-- ROC and Gini metrics indicate strong model discrimination.
-
-## References
-
-- [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-- scikit-learn documentation
